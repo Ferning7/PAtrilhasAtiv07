@@ -1,0 +1,6 @@
+C:\Users\Aluno_Tarde\Documents\SharpDevelop Projects\exJ\exJ\obj\Debug\exJ.csprojResolveAssemblyReference.cache
+C:\Users\Aluno_Tarde\Documents\SharpDevelop Projects\exJ\exJ\bin\Debug\exJ.exe.config
+C:\Users\Aluno_Tarde\Documents\SharpDevelop Projects\exJ\exJ\bin\Debug\exJ.exe
+C:\Users\Aluno_Tarde\Documents\SharpDevelop Projects\exJ\exJ\bin\Debug\exJ.pdb
+C:\Users\Aluno_Tarde\Documents\SharpDevelop Projects\exJ\exJ\obj\Debug\exJ.exe
+C:\Users\Aluno_Tarde\Documents\SharpDevelop Projects\exJ\exJ\obj\Debug\exJ.pdb
