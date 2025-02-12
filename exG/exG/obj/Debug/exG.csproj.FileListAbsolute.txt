@@ -1,0 +1,6 @@
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\exG\exG\bin\Debug\exG.exe.config
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\exG\exG\bin\Debug\exG.exe
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\exG\exG\bin\Debug\exG.pdb
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\exG\exG\obj\Debug\exG.csprojResolveAssemblyReference.cache
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\exG\exG\obj\Debug\exG.exe
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\exG\exG\obj\Debug\exG.pdb

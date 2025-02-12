@@ -1,0 +1,6 @@
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\exF\exF\obj\Debug\exF.csprojResolveAssemblyReference.cache
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\exF\exF\bin\Debug\exF.exe.config
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\exF\exF\bin\Debug\exF.exe
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\exF\exF\bin\Debug\exF.pdb
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\exF\exF\obj\Debug\exF.exe
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\exF\exF\obj\Debug\exF.pdb
